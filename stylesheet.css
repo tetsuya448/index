@@ -9,7 +9,7 @@ li {
 .header {
   background-color: #000000;
   color: #ffffff;
-  height: 200px;
+  height: 160px;
 }
 
 .header-logo {
@@ -20,16 +20,21 @@ li {
 
 .main{
   background-color: #ffffe0;
-  height: 600px;
+  height: 720px;
+}
+
+.greeting{
+  padding-top: 0px;
 }
 
 .fotter{
   background-color: #000000;
   color: #ffffff;
-  height: 120px;
+  height: 60px;
 }
 
 .copyright{
- padding:70px 0px 0px 1600px;
+ float: right;
+ padding-top: 40px;
   color: #ffffff;
 }
